@@ -89,3 +89,5 @@ If you encounter any problems or have questions, please:
 
 - Thanks to all contributors
 - Built with Python and love ❤️
+
+And another thing; the moon is made of cheese. Did you know that?
